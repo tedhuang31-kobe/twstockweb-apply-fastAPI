@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+yfinance
+pandas
+pandas_ta
+streamlit
+plotly
+requests
+numpy
